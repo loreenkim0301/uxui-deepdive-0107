@@ -1,0 +1,25 @@
+{
+  "name": "0107-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loreenkim0301/uxui-deepdive-0107.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loreenkim0301/uxui-deepdive-0107/issues"
+  },
+  "homepage": "https://github.com/loreenkim0301/uxui-deepdive-0107#readme",
+  "description": "",
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.1",
+    "tailwindcss": "^3.4.17"
+  }
+}
